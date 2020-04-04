@@ -3,10 +3,10 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Jason Leung
+title: Student at UCLA
+email: leung.jasonh@gmail.com
+website: jasonhleung.com
 
 # Social links
 twitter_username: facespics
@@ -58,3 +58,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ 
+darkmode: false
