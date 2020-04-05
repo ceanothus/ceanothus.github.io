@@ -6,9 +6,9 @@
   quote: >
     The evolution of local adaptation shapes the genetic and phenotypic variation that determines the survival of tree populations.  A question today is how are long-lived species going to survive the human induced rapid environmental changes induced by ecosystem modification and climate change. 
   description:
-   - Currently exploring hybridization and adaptive introgression in 3 Southern California oak species
-   - Designed a common garden for 300 valley oak ( Quercus lobata ) seedlings for study of genetic variation across climatic gradients
-   - Investigated relationship between acorn size and germination in valley oak across 10 populations in California
+  - Currently exploring hybridization and adaptive introgression in 3 Southern California oak species
+  - Designed a common garden for 300 valley oak ( Quercus lobata ) seedlings for study of genetic variation across climatic gradients
+  - Investigated relationship between acorn size and germination in valley oak across 10 populations in California
    
 - layout: right  
   company: UCLA's Office of Environment, Health, and Safety (EH&S)
@@ -16,8 +16,9 @@
   job_title: GreenLabs Fellow
   dates: December 2019 - Present
   quote: >
-   The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people.
+    Laboratory facilities...represent the university’s single-largest consumer of energy and water on a per-square-foot space basis.
   description: | # this will include new lines to allow paragraphs 
+    
     
 - layout: left 
   company: United States Fish and Wildlife Service
@@ -25,6 +26,6 @@
   job_title: Field Botany Intern
   dates: July 2018 - September 2018
   quote: >
-   The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people.
+   Working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people.
   description: | # this will include new lines to allow paragraphs
     
