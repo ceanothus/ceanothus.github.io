@@ -25,10 +25,11 @@ linkedin_username: jason-leung-a57ba0132
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey there! My name's Jason and I'm a student at UCLA. Right now I'm working towards a B.S in Ecology, Behavior, and Evolution and a minor in Bioinformatics.
+  Hey there! My name's Jason and I'm a student at the University of California, Los Angeles. Right now I'm working towards a B.S in Ecology, Behavior, and Evolution and a minor in Bioinformatics.
   
-  I'm also a GreenLabs Fellow at the school's Office of Environment, Health, and Safety (EH&S) where I cooperate with scientists, staff, and students to reduce the environmental impact of laboratory research
+  I'm also a GreenLabs Fellow at the school's Office of Environment, Health, and Safety (EH&S) where I cooperate with scientists, staff, and students to reduce the environmental impact of laboratory research.
 
+  My mission is to study and protect our natural heritage in the field, lab, and command line. I want to push a frontier in evolutionary biology by learning and applying the latest and greatest computational skills.
 # Projects Section
 # projects_title: Projects
 
