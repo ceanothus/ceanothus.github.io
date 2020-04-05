@@ -10,8 +10,8 @@ email: leung.jasonh@gmail.com
 website: jasonhleung.com
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: nosajason101
+github_username:  ceanothus
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -25,9 +25,9 @@ linkedin_username: jason-leung-a57ba0132
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey there! My name's Jason and I'm a student at UCLA with a major in Ecology, Behavior, and Evolution and a minor in Bioinformatics
+  Hey there! My name's Jason and I'm a student at UCLA. Right now I'm working towards a B.S in Ecology, Behavior, and Evolution and a minor in Bioinformatics.
   
-
+  I'm also a GreenLabs Fellow at the school's Office of Environment, Health, and Safety (EH&S) where I cooperate with scientists, staff, and students to reduce the environmental impact of laboratory research
 
 # Projects Section
 # projects_title: Projects
