@@ -31,7 +31,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   My mission is to study and protect our natural heritage in the field, lab, and command line. I want to push a frontier in evolutionary biology by learning and applying modern computational skills.
 
-  <mark>Updates</mark>
+  <bold>Updates</bold>
+  
   <mark>2020.04.04:</mark> I set up this website! Based on a Jekyll design by sproogen.
 # Projects Section
 # projects_title: Projects
