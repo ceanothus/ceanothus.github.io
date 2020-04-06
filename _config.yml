@@ -30,6 +30,9 @@ about_content: | # this will include new lines to allow paragraphs
   I'm also a GreenLabs Fellow at the school's Office of Environment, Health, and Safety (EH&S) where I cooperate with scientists, staff, and students to reduce the environmental impact of laboratory research.
 
   My mission is to study and protect our natural heritage in the field, lab, and command line. I want to push a frontier in evolutionary biology by learning and applying modern computational skills.
+
+  <mark>Updates</mark>
+  <mark>2020.04.04:</mark> I set up this website! Based on a Jekyll design by sproogen.
 # Projects Section
 # projects_title: Projects
 
