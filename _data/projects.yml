@@ -1,7 +1,8 @@
 - layout: top-middle
-  name: 'A draft genome resource for _Marasmius tenuissimus_
+  name: | 
+    A draft genome resource for *Marasmius tenuissimus*
   
-    '
+ 
   
   link: |
     https://doi.org/10.1094/PHYTOFR-03-23-0027-A
