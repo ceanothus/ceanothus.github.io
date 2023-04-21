@@ -25,14 +25,21 @@ linkedin_username: jason-leung-a57ba0132
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey there! My name's Jason and I'm a student at the University of California, Los Angeles. Right now I'm working towards a B.S in Ecology, Behavior, and Evolution with a minor in Bioinformatics.
+  Hey there! I'm an aspiring evolutionary biologist and botanist, committed to a more verdant future for people and plants. 
   
-  I'm also a GreenLabs Fellow at the school's Office of Environment, Health, and Safety (EH&S) where I cooperate with scientists, staff, and students to reduce the environmental impact of laboratory research.
-
-  My mission is to study and protect our natural heritage in the field, lab, and command line. I want to push a frontier in evolutionary biology by learning and applying modern computational skills.
+  My mission is to study and protect our natural heritage in the field, lab, and command line. 
+  I want to push a frontier in our science by learning and applying modern genomic tools.
   
+  Right now, I'm an ORISE Fellow at the Sustainable Perennial Crops Lab at the USDA's Agricultural Research Service, 
+  where I generate resources and analyses like genome assemblies and SNP panels for economically important tropical plants and their pathogens.
+  
+  In the Fall of 2023, I'll be matriculating at Columbia University as a PhD student under the mentorship of Professor Deren Eaton. 
   
   <mark>UPDATES:</mark>
+  2023.04.21: Check out our [genome announcement] (https://doi.org/10.1094/PHYTOFR-03-23-0027-A) in PhytoFrontiers for *Marasmius tenuissimus*, a fungal pathogen of cacao, 
+  
+  2023.04.12: After receiving offers from graduate schools, I've decided to attend Columbia University in the fall! 
+  Many thanks to all my friends and family, my recommenders, and the advisors that welcomed me to their labs for visits. 
   
   2020.04.04: I set up this website! Based on a Jekyll design by sproogen.
 # Projects Section
@@ -47,11 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+ 
 
 # Footer
 footer_show_references: true
