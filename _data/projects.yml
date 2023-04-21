@@ -1,9 +1,12 @@
 - layout: top-middle
-  name: A draft genome resource for *Marasmius tenuissimus* , an emerging causal agent of thread blight disease in cacao
+  name: | 
+    A draft genome resource for *Marasmius tenuissimus*, an emerging causal agent of thread blight disease in cacao \n
   
-  link: https://doi.org/10.1094/PHYTOFR-03-23-0027-A
+  link: |
+    https://doi.org/10.1094/PHYTOFR-03-23-0027-A
  
   description: | # this will include new lines to allow paragraphs
+  
     Thread blight disease (TBD) is a serious emerging threat to global cacao production, causing leaf blight symptoms and necrosis in the canopy of infected trees. 
     Though previously thought to be caused primarily by the fungus *Marasmiellus scandens*, recent work has revealed that a variety of pathogenic Marasmiaceae are responsible for TBD, with Marasmius tenuissimus identified as the dominant causal agent of TBD in Ghanaian cacao plantations. 
     *M. tenuissimus* has also been reported in remote organic cacao plantations in the Amazonas Department of Peru, infecting 90-100% of the trees surveyed. 
