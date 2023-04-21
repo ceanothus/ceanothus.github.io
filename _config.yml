@@ -25,7 +25,7 @@ linkedin_username: jason-leung-a57ba0132
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey there! I'm an aspiring evolutionary biologist and botanist, committed to a more verdant future for people and plants. 
+  Hey there! I'm an aspiring evolutionary biologist and botanist. 
   
   My mission is to study and protect our natural heritage in the field, lab, and command line. 
   I want to push a frontier in our science by learning and applying modern genomic tools.
@@ -35,7 +35,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   In the Fall of 2023, I'll be matriculating at Columbia University as a PhD student under the mentorship of Professor Deren Eaton. 
   
+  
+  
   <mark>UPDATES:</mark>
+  
   2023.04.21: Check out our [genome announcement] (https://doi.org/10.1094/PHYTOFR-03-23-0027-A) in PhytoFrontiers for *Marasmius tenuissimus*, a fungal pathogen of cacao, 
   
   2023.04.12: After receiving offers from graduate schools, I've decided to attend Columbia University in the fall! 
