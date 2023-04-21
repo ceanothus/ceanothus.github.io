@@ -1,8 +1,10 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: A draft genome resource for *Marasmius tenuissimus*, an emerging causal agent of thread blight disease in cacao
+  link: https://doi.org/10.1094/PHYTOFR-03-23-0027-A
+ 
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Thread blight disease (TBD) is a serious emerging threat to global cacao production, causing leaf blight symptoms and necrosis in the canopy of infected trees. 
+    Though previously thought to be caused primarily by the fungus *Marasmiellus scandens*, recent work has revealed that a variety of pathogenic Marasmiaceae are responsible for TBD, with Marasmius tenuissimus identified as the dominant causal agent of TBD in Ghanaian cacao plantations. 
+    *M. tenuissimus* has also been reported in remote organic cacao plantations in the Amazonas Department of Peru, infecting 90-100% of the trees surveyed. 
+    Here we have assembled and annotated the nuclear genome of *M. tenuissimus* isolate GH-37. 
+    This resource is a first attempt at a high-quality draft genome utilizing both second- and third-generation sequencing for *M. tenuissimus* and extends the current understanding of the evolution, ecology, and virulence of this pathogen
