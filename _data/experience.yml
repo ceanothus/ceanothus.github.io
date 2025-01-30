@@ -1,4 +1,15 @@
 - layout: left
+  company: US Department of Agriculture
+  link: https://www.ars.usda.gov/northeast-area/beltsville-md-barc/beltsville-agricultural-research-center/sustainable-perennial-crops-laboratory/
+  job_title: ORISE Fellow
+  dates: September 2021 - September 2023
+  quote: |
+    
+  description: |
+    - Published a review on the budding tea industry in the United States
+    - Generated genomic resources for emerging pathogens of cacao that cause thread blight disease (*Marasmius tenuissimus* and *Maramiellus scandens*)
+
+- layout: left
   company: Sork Lab at UCLA
   link: https://sorklab.eeb.ucla.edu/
   job_title: Student Research Assistant
@@ -12,23 +23,3 @@
     - Designed a common garden for 300 valley oak ( Quercus lobata ) seedlings for study of genetic variation across climatic gradients
     - Investigated relationship between acorn size and germination in valley oak across 10 populations in California
    
-- layout: left  
-  company: Office of Environment, Health, and Safety (EH&S) at UCLA
-  link: https://www.ehs.ucla.edu/
-  job_title: GreenLabs Fellow
-  dates: December 2019 - Present
-  quote: >
-    Laboratory facilities...represent the university’s single-largest consumer of energy and water on a per-square-foot space basis.
-  description: | # this will include new lines to allow paragraphs 
-    
-    
-- layout: left 
-  company: United States Fish and Wildlife Service
-  link: https://www.fws.gov/refuge/humboldt_bay/
-  job_title: Field Botany Intern
-  dates: July 2018 - September 2018
-  quote: >
-   Working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats 
-   for the continuing benefit of the American people.
-  description: | # this will include new lines to allow paragraphs
-    
