@@ -1,4 +1,13 @@
 - layout: left
+  name: Columbia University
+  dates: September 2023 - Present
+  qualification: PhD (ongoing)
+  quote: >
+    In Lumine Tuo Videbimus Lumen
+  description: | # this will include new lines to allow paragraphs
+    I am currently a PhD student under the mentorship of Deren Eaton in the Department of Ecology, Evolution, and Environmental Biology (E3B). I am broadly interested in plant evolution, genomics, and conservation, and my work here has focused on mating systems evolution in *Amaranthus*.
+
+- layout: left
   name: University of California, Los Angeles
   dates: September 2017 - June 2021
   qualification: B.S Ecology, Behavior, and Evolution
