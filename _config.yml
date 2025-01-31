@@ -46,10 +46,10 @@ about_content: | # this will include new lines to allow paragraphs
   **2020.04.04**: I set up this website! Based on a Jekyll design by sproogen.
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # More Section
 # more_title: A Little More About Me
